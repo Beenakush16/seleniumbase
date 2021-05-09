@@ -1,0 +1,52 @@
+{
+  "uid" : "cb9cf58332819020",
+  "name" : "test_skiptest",
+  "fullName" : "main#test_skiptest",
+  "historyId" : "d1a26c0f32506953b9627a7786c375de",
+  "time" : {
+    "start" : 1620553616223,
+    "stop" : 1620553616223,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "statusMessage" : "Skipped",
+  "statusTrace" : "('E:\\\\PycharmProjects\\\\SeleniumpythonProject\\\\main.py', 26, 'Skipped')",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "main"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-NEVJTCL"
+  }, {
+    "name" : "thread",
+    "value" : "11580-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "main"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cb9cf58332819020.json",
+  "parameterValues" : [ ]
+}

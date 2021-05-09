@@ -1,0 +1,88 @@
+{
+  "uid" : "8c5aa1a6b9cf533f",
+  "name" : "test_validTitle",
+  "fullName" : "main#test_validTitle",
+  "historyId" : "10254b91b663c34e4928aa3aecdf5732",
+  "time" : {
+    "start" : 1620553616210,
+    "stop" : 1620553616220,
+    "duration" : 10
+  },
+  "description" : "Validates Page Title",
+  "descriptionHtml" : "<p>Validates Page Title</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "test_setup",
+    "time" : {
+      "start" : 1620553611712,
+      "stop" : 1620553616205,
+      "duration" : 4493
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "test_setup::0",
+    "time" : {
+      "start" : 1620553616226,
+      "stop" : 1620553618509,
+      "duration" : 2283
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "NORMAL"
+  }, {
+    "name" : "tag",
+    "value" : "@pytest.mark.usefixtures('test_setup')"
+  }, {
+    "name" : "suite",
+    "value" : "main"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-NEVJTCL"
+  }, {
+    "name" : "thread",
+    "value" : "11580-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "main"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "@pytest.mark.usefixtures('test_setup')" ]
+  },
+  "source" : "8c5aa1a6b9cf533f.json",
+  "parameterValues" : [ ]
+}

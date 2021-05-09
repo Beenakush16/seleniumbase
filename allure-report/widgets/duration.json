@@ -1,0 +1,21 @@
+[ {
+  "uid" : "cb9cf58332819020",
+  "name" : "test_skiptest",
+  "time" : {
+    "start" : 1620553616223,
+    "stop" : 1620553616223,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "8c5aa1a6b9cf533f",
+  "name" : "test_validTitle",
+  "time" : {
+    "start" : 1620553616210,
+    "stop" : 1620553616220,
+    "duration" : 10
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
