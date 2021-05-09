@@ -1,3 +1,0 @@
-"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"skipped","Sun May 09 15:16:56 IST 2021","Sun May 09 15:16:56 IST 2021","0","","main","","","","test_skiptest",""
-"passed","Sun May 09 15:16:56 IST 2021","Sun May 09 15:16:56 IST 2021","10","","main","","","","test_validTitle","Validates Page Title"
